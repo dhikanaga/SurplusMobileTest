@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_FailLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37c128f3-0079-4dad-8fc9-6286e33dff64</testCaseGuid>
+   <variable>
+      <defaultValue>'testtest@gmail.com'</defaultValue>
+      <description></description>
+      <id>2cf4cc13-49fd-4a3e-98a5-c0f24b0b66d7</id>
+      <masked>false</masked>
+      <name>wrongEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>'YsxTccsmuDoDBwXzvpNmKQ=='</defaultValue>
+      <description></description>
+      <id>107e2f95-91b5-4204-9284-ff232ad1f059</id>
+      <masked>false</masked>
+      <name>wrongPassword</name>
+   </variable>
+</TestCaseEntity>
